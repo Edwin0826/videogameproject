@@ -1,0 +1,81 @@
+.Danilo{
+    color: rgb(77, 2, 2);
+    font-size: 40px;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Young Serif', serif;
+}
+
+#menu1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+    overflow: hidden;
+    background: rgb(105, 0, 0);
+}
+
+#menu1 li{
+    float: left;
+}
+
+#menu1 li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+#menu1 li a:hover{
+    padding: 15px 25px 8px;
+    border-bottom: 7px solid rgb(80, 0, 0);
+}
+
+#menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+    overflow: hidden;
+    background: black;
+}
+
+#menu li{
+    float: left;
+}
+
+#menu li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: wheat;
+}
+
+#menu li a:hover{
+    padding: 15px 25px 8px;
+    border-bottom: 7px solid rgb(255, 255, 255);
+}
+
+.titulos{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Young Serif', serif;
+}
+
+p{
+    color: rgb(80, 79, 79);
+    font-size: 15px;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Young Serif', serif; 
+}
+
+#Ho {
+
+    color: rgb(70, 68, 68);
+    font-size: 15px;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Young Serif', serif;
+    
+}

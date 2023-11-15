@@ -1,0 +1,52 @@
+.Arias {
+    font-family: 'Croissant One', cursive;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(138, 14, 14);
+}
+
+h2 {
+    font-family: 'Croissant One', cursive;
+    font-family: 'Oswald', sans-serif;
+    color: black; 
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    font-family: 'Croissant One', cursive;
+    font-family: 'Oswald', sans-serif;
+    color: black; 
+}
+
+#Diga {
+    font-size: 20px;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+}
+
+#menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+    overflow: hidden;
+    background: black;
+}
+
+#menu li{
+    float: left;
+}
+
+#menu li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: wheat;
+}
+
+#menu li a:hover{
+    padding: 15px 25px 8px;
+    border-bottom: 7px solid rgb(255, 255, 255);
+}
